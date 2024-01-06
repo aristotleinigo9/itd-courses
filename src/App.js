@@ -15,7 +15,7 @@ function App() {
       <Container>
         <h1 className='text-center mt-4'>ITD Course Catalogue</h1>
         <div>
-            <a href="https://google.com">
+            <a href="https://itd-course-catalogue-home.vercel.app">
                <button>
                   Home
                </button>
