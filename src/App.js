@@ -48,7 +48,7 @@ function App() {
                 })  
               .map((item) => (
                   <tr>
-                     <td>{item.area}</td>
+                    <td>{item.area}</td>
                     <td>{item.program}</td>
                     <td>{item.course_code}</td>
                     <td>{item.course_name}</td>
