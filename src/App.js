@@ -32,10 +32,11 @@ function App() {
         <Table striped bordered hover>
           <thead>
             <tr>
-              <th>Course code</th>
               <th>Area</th>
+              <th>Program</th>
+              <th>Course code</th>
               <th>Course name</th>
-              <th>Delivery</th>
+              <th>Course location</th>
             </tr>
           </thead>
           <tbody>
@@ -47,10 +48,11 @@ function App() {
                 })  
               .map((item) => (
                   <tr>
-                     <td>{item.course_code}</td>
-                    <td>{item.area}</td>
+                     <td>{item.area}</td>
+                    <td>{item.program}</td>
+                    <td>{item.course_code}</td>
                     <td>{item.course_name}</td>
-                    <td>{item.delivery_method}</td>
+                    <td>{item.course_loc}</td>
                   </tr>
               ))}
           </tbody>
