@@ -14,7 +14,6 @@ function App() {
     <div className="App">
       <Container>
         <h1 className='text-center mt-4'>ITD Course Catalogue</h1>
-        // <h2 className='text-center mt-4'> still under construction by inigoad </h2>
         <div>
             <a href="https://itd-course-catalogue-home.vercel.app">
                <button>
