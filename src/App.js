@@ -43,7 +43,7 @@ function App() {
               .filter ((item) => {
                 return search.toLowerCase() === ''
                   ? item 
-                  : item.course_name.toLocaleLowerCase().includes(search);
+                  : item.course_name.toLocaleLowerCase().includes(search.toLowerCase());
                 })  
               .map((item) => (
                   <tr>
