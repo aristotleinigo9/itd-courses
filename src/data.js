@@ -2651,5 +2651,89 @@ export const data = [
     "course_code": 40095395,
     "course_name": "Communication Supervisory Alarm System",
     "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills for Leaders",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 4689,
+    "course_name": "Crtical Thinking for Leaders",
+    "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills for Leaders",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 4690,
+    "course_name": "Learning with Emotional Intelligence",
+    "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills for Leaders",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 4861,
+    "course_name": "Effective Communication for Leaders",
+    "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills for Leaders",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 5361,
+    "course_name": "Conflict Management for Leaders",
+    "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 40096130,
+    "course_name": "Effective Time Management",
+    "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 40096436,
+    "course_name": "Effective Communication",
+    "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 40096471,
+    "course_name": "Critical Thinking",
+    "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 40099506,
+    "course_name": "Customer Service",
+    "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 40099504,
+    "course_name": "Emotional Intelligence",
+    "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 40099179,
+    "course_name": "Conflict Management",
+    "course_loc": "DH"
+  },
+  {
+    "area": "Sokft Skills",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 5058,
+    "course_name": "Industrial Leadership Development Program (ILDP)",
+    "course_loc": "OOC/OOK in Dubai, UAE"
+  },
+  {
+    "area": "Sokft Skills",
+    "program": "Industrial & Admin Workforce",
+    "course_code": 40096131,
+    "course_name": "Effective Meeting Management",
+    "course_loc": "DH"
   }
 ]
