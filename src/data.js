@@ -2663,7 +2663,7 @@ export const data = [
     "area": "Sokft Skills for Leaders",
     "program": "Industrial & Admin Workforce",
     "course_code": 4690,
-    "course_name": "Learning with Emotional Intelligence",
+    "course_name": "Leading with Emotional Intelligence",
     "course_loc": "DH"
   },
   {
